@@ -1,3 +1,3 @@
 # CCPageControl
 custom page controller and custom segment
-![](https://github.com/guodongxiaren/ImageCache/raw/master/Logo/foryou.gif)
+![](https://github.com/maxmoo/CCPageControl/blob/main/IMG_ED31BB59A6BF-1.jpeg)
